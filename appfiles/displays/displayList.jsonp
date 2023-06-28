@@ -1,0 +1,12 @@
+__loadDisplayList__2ae9333e([
+  {
+    "group": "common",
+    "name": "Bike_trail_survey_breeding_bird_trends",
+    "desc": "TRPD Bike Trail Survey estimated proportion sites occupied by species. Shaded areas are 90% credible intervals.",
+    "n": 117,
+    "height": 500,
+    "width": 500,
+    "updated": "2023-06-28 14:16:15",
+    "keySig": "c4ea0cd1c22a31ccf7ea6b569d82b261"
+  }
+])
